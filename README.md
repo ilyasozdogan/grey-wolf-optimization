@@ -4,3 +4,6 @@ Solution of Minimum Cost Problem in Pressure Vessel Design with Grey Wolf Optimi
 
 credit: https://doi.org/10.1016/j.advengsoft.2013.12.007
 
+My implementation of GWO algorithm in Python
+
+Artificial Intelligent Course Project
